@@ -1,5 +1,7 @@
 # Diabetic-lesions-Python
 
+The code has been developed in Spyder IDE with python3.9
+
 #### To run the project:
 
 **1.** Clone/https://github.com/FaezehRajabiKouchi/Diabetic-lesions-Python.git.
