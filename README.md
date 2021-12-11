@@ -1,6 +1,7 @@
 # Diabetic-lesions-Python
 
 The code has been developed in Spyder IDE with python 3.9
+
 Tensoeflow has been used to create the model
 
 #### To run the project:
