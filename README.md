@@ -14,7 +14,7 @@
 
 **6.** In the line 16 of "MainAlgorithm1.py" add the dataset's path in your device.
 
-**7.** In the line of of "MainAlgorithm1.py" add the savemat's path.
+**7.** In the line of of "MainAlgorithm1.py" add the savemat's path in your device.
 
 **8.** Open the "Diabetic-lesions-Python" project and run the "MainAlgorithm1.py".
 
