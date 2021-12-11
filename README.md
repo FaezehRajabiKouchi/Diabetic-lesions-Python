@@ -1,8 +1,8 @@
 # Diabetic-lesions-Python
 
-The code has been developed in Spyder IDE with python 3.9
+This Project has been developed in Spyder IDE with python 3.9.
 
-TensorFlow has been used to create the model
+TensorFlow has been used to create the model.
 
 #### To run the project:
 
