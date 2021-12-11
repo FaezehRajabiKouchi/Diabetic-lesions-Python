@@ -2,7 +2,7 @@
 
 This Project has been developed in Spyder IDE with python 3.9.
 
-TensorFlow has been used to create the model.
+TensorFlow 2.6.1 has been used to create the model.
 
 #### To run the project:
 
